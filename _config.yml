@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ralinux1.github.io
+title: All about Linux
+tagline: Allday hacking
+description: This is about Kali Linux, NetHunter and the tools. A try to collect the information i found on my way to learn how it all is working.
+paginate: 5
