@@ -1,0 +1,6 @@
+---
+published: true
+title: Weekend
+layout: post
+---
+Work for the week done but no energy left. Hopefully I will get some time to sit down with Metasploit2 in the weekend.
